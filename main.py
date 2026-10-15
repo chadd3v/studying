@@ -5,3 +5,5 @@ def rega():
     print("password:",password)
 
 rega()
+
+nu pzhpzhpzh
